@@ -1,0 +1,12 @@
+/* styling the multi-level dropdown menu */
+
+.dropdown-menu .dropright.dropdown,
+.dropright.dropdown.show {
+  /* align a.dropdown-item and div.dropdown */
+  padding: 4px 24px;
+}
+
+.dropdown-menu.show {
+  /* the menu options should be as large as their content */
+  min-width: auto;
+}

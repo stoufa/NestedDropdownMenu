@@ -1,0 +1,27 @@
+# Python
+# [DropdownMenu - dbc docs](https://dash-bootstrap-components.opensource.faculty.ai/docs/components/dropdown_menu/)
+# [How to do a Multi-Level Dropdowns - Dash - Plotly Community Forum](https://community.plotly.com/t/how-to-do-a-multi-level-dropdowns/34967)
+# [How to find out if a Python object is a string? - Stack Overflow](https://stackoverflow.com/questions/1303243/how-to-find-out-if-a-python-object-is-a-string)
+# [Python random randrange() & randint() to get Random Integer number](https://pynative.com/python-random-randrange/)
+# [How to Start a Business in an Afternoon Using Python and Dash — Creating a Contact Form and Blog | by Eric Kleppen | The Startup | Medium](https://medium.com/swlh/how-to-start-a-business-in-an-afternoon-using-python-and-dash-adding-a-contact-form-and-blog-35aa48b673ba)
+# [How to Open Bootstrap Dropdown Menu on Hover Rather than Click](https://www.tutorialrepublic.com/faq/how-to-open-bootstrap-dropdown-menu-on-hover-rather-than-click.php)
+# [How to add javascript snippet into my app? - Dash - Plotly Community Forum](https://community.plotly.com/t/how-to-add-javascript-snippet-into-my-app/11142)
+# [Adding CSS & JS and Overriding the Page-Load Template | Dash for Python Documentation | Plotly](https://dash.plotly.com/external-resources)
+# [.addClass() | jQuery API Documentation](https://api.jquery.com/addclass/)
+# [python - Check if a given key already exists in a dictionary - Stack Overflow](https://stackoverflow.com/questions/1602934/check-if-a-given-key-already-exists-in-a-dictionary)
+# [URL Routing and Multiple Apps | Dash for Python Documentation | Plotly](https://dash.plotly.com/urls)
+
+
+// Javascript
+// [javascript - How to use Jquery how to change the aria-expanded="false" part of a dom element (Bootstrap)? - Stack Overflow](https://stackoverflow.com/questions/27752210/how-to-use-jquery-how-to-change-the-aria-expanded-false-part-of-a-dom-element)
+// [.find() | jQuery API Documentation](https://api.jquery.com/find/)
+// [mouseover and mouseout events jQuery - Stack Overflow](https://stackoverflow.com/questions/8948113/mouseover-and-mouseout-events-jquery)
+// [.mouseover() | jQuery API Documentation](https://api.jquery.com/mouseover/)
+// [.mouseout() | jQuery API Documentation](https://api.jquery.com/mouseout/)
+// [$(document).ready and window.onload() difference - jQuery Forum](https://forum.jquery.com/topic/document-ready-and-window-onload-difference)
+// [mouseover and mouseout events jQuery - Stack Overflow](https://stackoverflow.com/questions/8948113/mouseover-and-mouseout-events-jquery)
+// [jQuery attr() Method](https://www.w3schools.com/jquery/html_attr.asp)
+// [javascript - Event binding on dynamically created elements? - Stack Overflow](https://stackoverflow.com/questions/203198/event-binding-on-dynamically-created-elements)
+
+
+
